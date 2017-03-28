@@ -1,0 +1,9 @@
+{
+	"description": "CodeIgniter Bootstrap",
+	"name": "eghojansu/codeigniter-bootstrap",
+	"type": "project",
+	"license": "MIT",
+	"require": {
+		"php": ">=5.2.4"
+	}
+}
